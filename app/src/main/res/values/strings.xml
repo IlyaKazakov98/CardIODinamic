@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card IO Dinamic Test</string>
+    <string name="title_cardio">card.io</string>
+    <string name="loading">Загрузка</string>
+    <string name="install_scanner_card">install scanner card</string>
+    <string name="delete_scanner_card">delete scanner card</string>
+</resources>

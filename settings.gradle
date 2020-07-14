@@ -1,0 +1,3 @@
+rootProject.name='Card IO Dinamic Test'
+include ':app'
+include ':cardio'
